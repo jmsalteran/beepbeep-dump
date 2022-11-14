@@ -1,0 +1,22 @@
+@import url('https://fonts.googleapis.com/css?family=Roboto');
+
+h1.logo{
+    font-size: 3.5em;
+    font-weight: bold;
+    color: white;
+	font-family: 'Roboto', sans-serif;
+	transition: all 0.2s linear;
+}
+
+.scrolled h1.logo{
+	font-size: 1.5em;
+	margin: 0;
+}
+
+.img-with-bg{
+
+	width: 100%;
+	height: 100%;
+	opacity: 1;
+	background-color: black;
+}
